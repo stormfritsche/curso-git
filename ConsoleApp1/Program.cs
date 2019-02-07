@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 namespace ConsoleApp1 {
     class Program {
         static void Main(string[] args) {
-            Console.WriteLine("Olá mundo! ");
+            Console.WriteLine("kkk");
             Console.WriteLine("Bom dia!");
             int x = 10;
             Console.WriteLine(x);
